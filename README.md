@@ -2,4 +2,4 @@
 
 # Data-Science
 
-Data Science Assignments for CAAS AI&amp;ML course
+Data Science Projects & Assignments for CAAS AI&amp;ML course
