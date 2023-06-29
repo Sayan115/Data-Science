@@ -2,4 +2,4 @@
 * Tips Dataset Analysis
 * Ecommerce Purchases Analysis
 * SF Salaries Analysis
-* SLR of Tips Dataset (Tips vs Total Bill)
+* SLR of Tips Dataset (Tips vs Total Bill) from scratch
