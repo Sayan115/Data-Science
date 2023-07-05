@@ -4,3 +4,4 @@
 * Decryption of the encryption
 * Altering the RGB of Greece.jpg
 * Matrix operations
+* BlackFriday dataset Analysis
